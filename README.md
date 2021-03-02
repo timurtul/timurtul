@@ -30,3 +30,5 @@ I don't have any sponsors, but if you want to sponsor me right now, try contacti
 
 If you want to support me financially what you want, especially **Bitcoin** and **Ethereum** you can send a cryptocurrency to my wallet. 
 Before you do that contact me and you can get my wallet address, you can have special gifts for the supporters of your projects.
+
+___
