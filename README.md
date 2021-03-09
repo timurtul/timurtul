@@ -9,7 +9,8 @@ I am mostly a **web-based** developer. **Back-end** is indispensable.
 Wajex, which i founded, has been active since 2019.
 
  ### 2021 🚀
-
+ 
+- **Wajex.net**
 - **StateCord**
 - **Wajex Blogs**
 
