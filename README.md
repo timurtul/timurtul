@@ -10,6 +10,7 @@ Wajex, which i founded, has been active since 2019.
 
  ### 2021 🚀
  
+- **Efem Tatil Köyü** 
 - **Wajex.net**
 - **StateCord**
 - **Wajex Blogs**
