@@ -10,5 +10,5 @@ If you want to support me financially what you want, especially **Bitcoin** and 
 Before you do that contact me and you can get my wallet address, you can have special gifts for the supporters of your projects.
 
 ---
-::marker If you are interested in software developers or influencer fields, you can work with us!
+If you are interested in software developers or influencer fields, you can work with us!
 Come on, [join us!](https://wajex.net)
