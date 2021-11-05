@@ -7,8 +7,9 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 
 ## ✍ Some information about me
 
-* 💻 Junior Back End Software Engineer 
-* 🥅 2022 Goals: Enlarge my ecommerce store and learn mobile software 
+* 💻 Junior Back End Software Engineer.
+* 🥅 2022 Goals: Enlarge my ecommerce store and learn mobile software.
+* 🌏 I know Russian, Turkish and English.
 * 🎉 Fun fact: I signed up at GitHub 2 years ago.
 
 ## 🔧 Technologies & Tools
@@ -21,6 +22,9 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 <!-- Rusça Türkçe İngilizce-->
 
