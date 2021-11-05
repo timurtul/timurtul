@@ -32,10 +32,3 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 [3]: https://www.linkedin.com/in/timurkorkusuz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact)](https://github.com/timurtul/github-readme-stats)
-
-<a href="https://github.com/timurtul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/timurtul/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=convoychat" />
-</a>
