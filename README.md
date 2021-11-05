@@ -22,7 +22,7 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange)
 
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=&logoColor=white&color=critical)
+![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=https://github.com/timurtul/timurtul/blob/main/mssql%20logo.png&logoColor=white&color=critical)
 
 
 ## 📈 GitHub Stats
