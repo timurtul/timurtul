@@ -20,9 +20,12 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange)
+
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=&logoColor=white&color=critical)
 
-<!-- Rusça Türkçe İngilizce-->
 
 ## 📈 GitHub Stats
+[![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurtul)](https://github.com/timurtul/github-readme-stats)
+
+<img align = "left" alt="Timur's Github Stats" src="">
