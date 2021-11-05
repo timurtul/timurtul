@@ -28,9 +28,11 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 ## 📈 GitHub Stats
 <a href="https://github.com/timurtul/timurtul#readme">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true"/>
+</a>
+<a href="https://github.com/timurtul/timurtul#readme">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact" />
+</a>
 
 
 [3.2]: https://github.com/timurtul/timurtul/blob/main/linkedin-3-16.png (LinkedIn)
 [3]: https://www.linkedin.com/in/timurkorkusuz
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact)](https://github.com/timurtul/github-readme-stats)
