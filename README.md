@@ -27,10 +27,10 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 
 ## 📈 GitHub Stats
 <a href="https://github.com/timurtul/timurtul#readme">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true&theme=buefy"/>
 </a>
 <a href="https://github.com/timurtul/timurtul#readme">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact&theme=buefy" />
 </a>
 <a href="https://github.com/timurtul/wajexfinans">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=wajexfinans&theme=buefy" />
