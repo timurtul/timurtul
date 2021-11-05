@@ -26,6 +26,5 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 
 
 ## 📈 GitHub Stats
-[![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurtul)](https://github.com/timurtul/github-readme-stats)
+[![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true)](https://github.com/timurtul/github-readme-stats)
 
-<img align = "left" alt="Timur's Github Stats" src="">
