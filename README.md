@@ -32,6 +32,7 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 <a href="https://github.com/timurtul/timurtul#readme">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurtul&layout=compact" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=github-readme-stats)](https://github.com/timurtul/github-readme-stats)
 
 
 [3.2]: https://github.com/timurtul/timurtul/blob/main/linkedin-3-16.png (LinkedIn)
