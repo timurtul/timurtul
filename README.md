@@ -13,18 +13,15 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 * 🎉 Fun fact: I signed up at GitHub 2 years ago.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
-
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=&logoColor=white&color=critical)
 
 <!-- Rusça Türkçe İngilizce-->
 
