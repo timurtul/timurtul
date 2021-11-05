@@ -22,11 +22,13 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=orange)
 
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=&logoColor=white&color=critical)
+![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=Microsoft_SQL_Server&logoColor=white&color=critical)
 
 
 ## 📈 GitHub Stats
-[![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true)](https://github.com/timurtul/github-readme-stats)
+<a href="https://github.com/timurtul/timurtul#readme">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true"/>
+
 
 [3.2]: https://github.com/timurtul/timurtul/blob/main/linkedin-3-16.png (LinkedIn)
 [3]: https://www.linkedin.com/in/timurkorkusuz
