@@ -2,7 +2,7 @@
 
 
 ## I'm  a Developer, Content Creator and Business Man.
-I am a software developer. I'm from Russia, living in Turkey and currently working freelance.
+I am a software developer. I'm from Russia, living in Turkey and currently working freelance. You can find me on [![LinkedIn][3.2]][3].
 
 
 ## ✍ Some information about me
@@ -28,3 +28,5 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 ## 📈 GitHub Stats
 [![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurtul&show_icons=true)](https://github.com/timurtul/github-readme-stats)
 
+[3.2]: https://github.com/timurtul/timurtul/blob/main/linkedin-3-16.png (LinkedIn)
+[3]: https://www.linkedin.com/in/timurkorkusuz
