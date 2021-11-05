@@ -4,29 +4,6 @@ I am 15 years old, currently studying at school and will be a **software develop
 My curiosity about software came from childhood and i'm looking forward to learning new programming languages.
 I am mostly a **web-based** developer. **Back-end** is indispensable.
 
- # Projects From Me 🌌
-
- ### 2021 🚀
- 
-- **Efem Tatil Köyü** 
-- **Wajex.net**
-- **StateCord**
-- **Wajex Blogs**
-
- ### 2020 😷
-
-- **DiscordPanel**
-- **timurr.com**
-
- ### 2019 🌙
-
-- **Rexploit**
-
-# Sponsors 💞
-
-I don't have any sponsors, but if you want to sponsor me right now, try contacting me!
-
-
  # Support 🙏
 
 If you want to support me financially what you want, especially **Bitcoin** and **Ethereum** you can send a cryptocurrency to my wallet. 
