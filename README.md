@@ -3,7 +3,7 @@
 
 ## I'm  a Developer, Content Creator and Business Man.
 I am a software developer. I'm from Russia, living in Turkey and currently working freelance. You can find me on [![LinkedIn][3.2]][3].
-
+You can contact with me on my [website](https://wajex.net)
 
 ## ✍ Some information about me
 
