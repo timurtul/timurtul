@@ -9,7 +9,7 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 * 💻 Junior Back End Software Engineer.
 * 🥅 2022 Goals: Enlarge my ecommerce store and learn mobile software.
 * 🌏 I know Russian, Turkish and English.
-* 🎉 Fun fact: I signed up at GitHub 4 years ago.
+* 🎉 Fun fact: I signed up at GitHub 5 years ago.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=9cf)
