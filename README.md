@@ -38,9 +38,7 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 <a href="https://github.com/timurtul/wajexfinans">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=wajexfinans&theme=buefy" />
 </a>
-<a href="https://github.com/timurtul/mvc-online-ticari-otomasyon">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timurtul&repo=mvc-online-ticari-otomasyon&theme=buefy" />
-</a>
+
 
 
 
