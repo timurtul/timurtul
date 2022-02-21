@@ -24,7 +24,7 @@ I am a software developer. I'm from Russia, living in Turkey and currently worki
 
 ![](https://img.shields.io/badge/DataBase-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MSSQL-informational?style=flat&logo=Microsoft_SQL_Server&logoColor=white&color=critical)
-![](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgre&logoColor=white&color=7824ff)
 
 
 
